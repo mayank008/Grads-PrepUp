@@ -1,0 +1,17 @@
+1. Documents References  ?
+
+https://www.tutorialspoint.com/java/java_collections.htm?
+
+http://tutorials.jenkov.com/java-concurrency/index.html?
+
+https://www.baeldung.com/java-8-functional-interfaces?
+
+https://www.w3schools.com/java/java_lambda.asp?
+
+https://www.geeksforgeeks.org/collections-in-java-2/?
+
+https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best- practices.html?
+
+2. Training Tutorials links?
+
+  https://www.youtube.com/watch?v=TCd8QIS-2KI
